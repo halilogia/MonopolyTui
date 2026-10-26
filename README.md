@@ -1,5 +1,10 @@
 # MonopolyTui
 
+> [!NOTE]
+> 🪐 **Bu proje artık [GraviTUI Monorepo](https://github.com/halilogia/GraviTUI) ekosisteminin resmi bir parçasıdır.**  
+> En güncel geliştirmeler, yeni özellikler ve merkezi başlatıcı için **[GraviTUI/apps/monopoly](https://github.com/halilogia/GraviTUI/tree/main/apps/monopoly)** adresini ziyaret edin.
+
+
 Windows Terminal ve modern terminaller için **24-bit TrueColor** Monopoly: yapay zekaya karşı oyna
 ya da **100.000 oyunluk Monte Carlo** ile hangi karelere en çok gelindiğini ısı haritasında gör.
 Saf Python 3 standart kütüphanesi, **0 pip bağımlılığı**.
